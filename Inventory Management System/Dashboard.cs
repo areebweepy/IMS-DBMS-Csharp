@@ -23,7 +23,7 @@ namespace Inventory_Management_System
         private void GetProductCount()
         {
             int count = 0;
-            string connectionString = @"Server=ACER-NITRO-5;Database=inventory;Integrated Security=True;";
+            string connectionString = @"ConnectionString";
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 string sql = "SELECT COUNT(*) AS total_products FROM Products";
@@ -45,7 +45,7 @@ namespace Inventory_Management_System
         private void GetCategoryCount()
         {
             int count = 0;
-            string connectionString = @"Server=ACER-NITRO-5;Database=inventory;Integrated Security=True;";
+            string connectionString = @"ConnectionString";
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 string sql = "SELECT COUNT(*) AS total_products FROM Categories";
@@ -67,7 +67,7 @@ namespace Inventory_Management_System
         private void GetInvoiceCount()
         {
             int count = 0;
-            string connectionString = @"Server=ACER-NITRO-5;Database=inventory;Integrated Security=True;";
+            string connectionString = @"ConnectionString";
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 string sql = "SELECT COUNT(*) AS total_products FROM Invoices";
