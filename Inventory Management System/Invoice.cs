@@ -36,7 +36,7 @@ namespace Inventory_Management_System
         public List<InvoiceModel> GetProductsFromDatabase()
         {
             List<InvoiceModel> invoices = new List<InvoiceModel>();
-            string connectionString = @"Server=ACER-NITRO-5;Database=inventory;Integrated Security=True;";
+            string connectionString = @"ConnectionString";
             string query = @"SELECT * From Invoices";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
@@ -116,7 +116,7 @@ namespace Inventory_Management_System
             double Price = 0;
             string Category = "";
 
-            string connectionString = @"Server=ACER-NITRO-5;Database=inventory;Integrated Security=True;";
+            string connectionString = @"ConnectionString";
             string query = @"SELECT p.productID, p.productName, p.quantity, p.price, c.category
                            FROM Products p
                            LEFT JOIN Categories c ON p.categoryId = c.categoryId
@@ -200,7 +200,7 @@ namespace Inventory_Management_System
             double Price = 0;
             string Category = "";
 
-            string connectionString = @"Server=ACER-NITRO-5;Database=inventory;Integrated Security=True;";
+            string connectionString = @"ConnectionString";
             string query = @"SELECT p.productID, p.productName, p.quantity, p.price, c.category
                            FROM Products p
                            LEFT JOIN Categories c ON p.categoryId = c.categoryId
