@@ -92,15 +92,12 @@ IMS-DBMS-Csharp/
 ├── README.md
 ```
 
-## Outputs
+## Output
 
 > Login Page:
 
 ![Login Page](assets/login-screenshot.png)
 
-> Dashboard:
-
-![Dashboard](assets/dashboard-screenshot.png)
 
 ---
 
