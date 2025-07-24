@@ -178,7 +178,7 @@ namespace Inventory_Management_System
         {
             string productId = this.ProductID;
 
-            string connectionString = @"Server=ACER-NITRO-5;Database=inventory;Integrated Security=True;";
+            string connectionString = @"ConnectionString";
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();                               
