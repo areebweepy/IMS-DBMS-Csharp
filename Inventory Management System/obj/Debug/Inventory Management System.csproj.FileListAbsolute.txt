@@ -1,0 +1,115 @@
+C:\Users\Areeb\Downloads\Project\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\Areeb\Downloads\Project\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\Areeb\Downloads\Project\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\Areeb\Downloads\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\Areeb\Downloads\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Areeb\Downloads\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\Areeb\Downloads\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\Areeb\Downloads\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\Areeb\Downloads\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\Areeb\Downloads\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+C:\Users\Areeb\Downloads\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Sample.resources
+C:\Users\Areeb\Downloads\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.FormLogin.resources
+C:\Users\Areeb\Downloads\Project (1)\Project\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\Areeb\Downloads\Project (1)\Project\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\Areeb\Downloads\Project (1)\Project\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\Areeb\Downloads\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\Areeb\Downloads\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Areeb\Downloads\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.FormLogin.resources
+C:\Users\Areeb\Downloads\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.frmMain.resources
+C:\Users\Areeb\Downloads\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Sample.resources
+C:\Users\Areeb\Downloads\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\Areeb\Downloads\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\Areeb\Downloads\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\Areeb\Downloads\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\Areeb\Downloads\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+C:\Users\Areeb\Downloads\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Dashboard.resources
+C:\Users\Hassan\Downloads\New folder (2)\Project (1)\Project\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\Hassan\Downloads\New folder (2)\Project (1)\Project\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\Hassan\Downloads\New folder (2)\Project (1)\Project\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\Hassan\Downloads\New folder (2)\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\Hassan\Downloads\New folder (2)\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hassan\Downloads\New folder (2)\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Dashboard.resources
+C:\Users\Hassan\Downloads\New folder (2)\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.FormLogin.resources
+C:\Users\Hassan\Downloads\New folder (2)\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.frmMain.resources
+C:\Users\Hassan\Downloads\New folder (2)\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Invoice.resources
+C:\Users\Hassan\Downloads\New folder (2)\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Products.resources
+C:\Users\Hassan\Downloads\New folder (2)\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Sample.resources
+C:\Users\Hassan\Downloads\New folder (2)\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\Hassan\Downloads\New folder (2)\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\Hassan\Downloads\New folder (2)\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Downloads\New folder (2)\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\Hassan\Downloads\New folder (2)\Project (1)\Project\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+C:\Users\Areeb\Downloads\backup_6-24-2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\Areeb\Downloads\backup_6-24-2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Areeb\Downloads\backup_6-24-2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\Areeb\Downloads\backup_6-24-2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+C:\Users\Areeb\Downloads\backup_6-24-2024\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\Areeb\Downloads\backup_6-24-2024\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\Areeb\Downloads\backup_6-24-2024\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\Areeb\Downloads\backup_6-24-2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Dashboard.resources
+C:\Users\Areeb\Downloads\backup_6-24-2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.FormLogin.resources
+C:\Users\Areeb\Downloads\backup_6-24-2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.frmMain.resources
+C:\Users\Areeb\Downloads\backup_6-24-2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Invoice.resources
+C:\Users\Areeb\Downloads\backup_6-24-2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Products.resources
+C:\Users\Areeb\Downloads\backup_6-24-2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Sample.resources
+C:\Users\Areeb\Downloads\backup_6-24-2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\Areeb\Downloads\backup_6-24-2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\Areeb\Downloads\backup_6-24-2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Dashboard.resources
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.FormLogin.resources
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.frmMain.resources
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Invoice.resources
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Sample.resources
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ProductsCard.resources
+C:\Users\Areeb\Downloads\Project\backup 25 june 2024\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.productsmain.resources
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.categories.resources
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.categoriesmain.resources
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Dashboard.resources
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.FormLogin.resources
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.frmMain.resources
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Invoice.resources
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.invoicecard.resources
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Invoiceword.resources
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ProductsCard.resources
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.productsmain.resources
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Sample.resources
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\Areeb\Downloads\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.categories.resources
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.categoriesmain.resources
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Dashboard.resources
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.FormLogin.resources
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.frmMain.resources
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Invoice.resources
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.invoicecard.resources
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Invoiceword.resources
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ProductsCard.resources
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.productsmain.resources
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Sample.resources
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\Areeb\Documents\Ssuet\SEMESTER-4\Database System (Lab)\Project\Proj\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
