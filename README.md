@@ -83,11 +83,10 @@ Invoices → Foreign key to Products
 ```
 IMS-DBMS-Csharp/
 ├── InventoryManagementSystem
-├── .gitignore
 ├── assets/
 │   ├── login-screenshot.png
-│   ├── dashboard-screenshot.png
 │   └── database-schema.png
+├── .gitignore
 ├── InventoryManagementSystem.sln
 ├── README.md
 ```
