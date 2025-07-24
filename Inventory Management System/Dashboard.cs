@@ -23,7 +23,7 @@ namespace Inventory_Management_System
         private void GetProductCount()
         {
             int count = 0;
-            string connectionString = @"ConnectionString";
+            string connectionString = @"ConnectionString(use ur own)";
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 string sql = "SELECT COUNT(*) AS total_products FROM Products";
