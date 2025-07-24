@@ -34,7 +34,7 @@ namespace Inventory_Management_System
         public List<ProductModel> GetProductsFromDatabase()
         {
             List<ProductModel> products = new List<ProductModel>();
-           string connectionString = @"Server=ACER-NITRO-5;Database=inventory;Integrated Security=True;";
+           string connectionString = @"ConnectionString";
             string query = @"SELECT p.productID, p.productName, p.quantity, p.price, c.category, p.imagePath
                            FROM Products p
                            LEFT JOIN Categories c ON p.categoryId = c.categoryId" ;
@@ -96,7 +96,7 @@ namespace Inventory_Management_System
             string quantity = textBox4.Text;
             string category = textBox10.Text;
             string Price = textBox3.Text;
-            string connectionString = @"Server=ACER-NITRO-5;Database=inventory;Integrated Security=True;";
+            string connectionString = @"ConnectionString";
             string query1 = @"SELECT categoryID FROM Categories WHERE category = @CategoryName";
             string categoryno = "";
             using (SqlConnection connection = new SqlConnection(connectionString))
