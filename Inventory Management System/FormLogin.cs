@@ -84,7 +84,7 @@ namespace Inventory_Management_System
         }
         private bool ValidateLogin(string username, string password)
         {
-            string connectionString = @"Server=ACER-NITRO-5;Database=inventory;Integrated Security=True;";
+            string connectionString = @"ConnectionString";
             string query = "SELECT Password FROM Users WHERE Username = @Username";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
