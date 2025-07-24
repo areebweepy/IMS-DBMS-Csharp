@@ -100,7 +100,7 @@ IMS-DBMS-Csharp/
 
 ---
 
-👨‍💻 Author
-Mirza Areeb Baig
-Computer Science Student | Database Lab Project
+## 👨‍💻 Author
+**Mirza Areeb Baig**
+
 
