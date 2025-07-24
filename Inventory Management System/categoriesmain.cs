@@ -31,7 +31,7 @@ namespace Inventory_Management_System
             // This is a placeholder method that should return a list of product models
             List<CategoryModel> categories = new List<CategoryModel>();
 
-            string connectionString = @"Server=ACER-NITRO-5;Database=inventory;Integrated Security=True;";
+            string connectionString = @"ConnectionString";
             string query = "SELECT categoryID, category FROM Categories";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
@@ -88,7 +88,7 @@ namespace Inventory_Management_System
         public List<ProductModel> GetProductsByCategory(string categoryId)
         {
             List<ProductModel> products = new List<ProductModel>();
-            string connectionString = @"Server=ACER-NITRO-5;Database=inventory;Integrated Security=True;";
+            string connectionString = @"ConnectionString";
             string query = @"SELECT p.productID, p.productName, p.quantity, p.price, c.category, p.imagePath
                            FROM Products p
                            INNER JOIN Categories c ON p.categoryId = c.categoryId
@@ -149,7 +149,7 @@ namespace Inventory_Management_System
 
         private void AddCategory(string addcatid, string addcatname)
         {
-            string connectionString = @"Server=ACER-NITRO-5;Database=inventory;Integrated Security=True;";
+            string connectionString = @"ConnectionString";
             string query = @"INSERT INTO CATEGORIES VALUES(@catID,@catName)";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
