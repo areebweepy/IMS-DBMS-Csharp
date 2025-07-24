@@ -132,7 +132,7 @@ namespace Inventory_Management_System
         {
             string categoryId = this.CategoryID;
 
-            string connectionString = @"Server=ACER-NITRO-5;Database=inventory;Integrated Security=True;";
+            string connectionString = @"ConnectionString";
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();
